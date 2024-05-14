@@ -1,5 +1,5 @@
 {
-  "name": "react-location-picker",
+  "name": "@beegru/react-location-picker",
   "version": "1.5.1",
   "main": "lib/index.js",
   "description": "A react component to pick a location using google maps",
