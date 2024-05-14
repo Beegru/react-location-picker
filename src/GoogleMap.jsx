@@ -1,8 +1,8 @@
+import Circle from '@beegru/react-google-maps/lib/components/Circle';
+import GoogleMap from '@beegru/react-google-maps/lib/components/GoogleMap';
+import Marker from '@beegru/react-google-maps/lib/components/Marker';
+import withGoogleMap from '@beegru/react-google-maps/lib/withGoogleMap';
 import React from 'react';
-import withGoogleMap from 'react-google-maps/lib/withGoogleMap';
-import GoogleMap from 'react-google-maps/lib/components/GoogleMap';
-import Marker from 'react-google-maps/lib/components/Marker';
-import Circle from 'react-google-maps/lib/components/Circle';
 
 /* Create map with withGoogleMap HOC */
 /* https://github.com/tomchentw/react-google-maps */
