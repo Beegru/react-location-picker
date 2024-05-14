@@ -1,6 +1,6 @@
 {
   "name": "@beegru/react-location-picker",
-  "version": "1.5.2",
+  "version": "1.5.3",
   "main": "lib/index.js",
   "description": "A react component to pick a location using google maps",
   "license": "MIT",
@@ -25,7 +25,7 @@
   },
   "dependencies": {
     "prop-types": "^15.8.1",
-    "react-google-maps": "^9.4.5"
+    "@beegru/react-google-maps": "^9.4.6"
   },
   "peerDependencies": {
     "react": "^18.3.1",
